@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Not existing page</h1>
+    <router-link to="/customers">Customers</router-link>
   </div>
 </template>
 
